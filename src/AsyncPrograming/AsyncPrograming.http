@@ -1,0 +1,6 @@
+@AsyncPrograming_HostAddress = http://localhost:5232
+
+GET {{AsyncPrograming_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
