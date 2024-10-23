@@ -9,6 +9,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AsyncPrograming", "src\Asyn
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TPLApp", "src\TPLApp\TPLApp.csproj", "{F61F4FA6-EB26-4332-A9A6-919E28EC3DCA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PLINQ", "src\PLINQ\PLINQ.csproj", "{FB7D3543-82C7-4F67-BA5F-D7F5B3B0530F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,6 +25,10 @@ Global
 		{F61F4FA6-EB26-4332-A9A6-919E28EC3DCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F61F4FA6-EB26-4332-A9A6-919E28EC3DCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F61F4FA6-EB26-4332-A9A6-919E28EC3DCA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB7D3543-82C7-4F67-BA5F-D7F5B3B0530F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB7D3543-82C7-4F67-BA5F-D7F5B3B0530F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB7D3543-82C7-4F67-BA5F-D7F5B3B0530F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB7D3543-82C7-4F67-BA5F-D7F5B3B0530F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -30,6 +36,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{90056EB0-4E1F-4E1F-BD76-CDB825778A7F} = {80E9097A-1E72-4302-B0CB-B102C931F096}
 		{F61F4FA6-EB26-4332-A9A6-919E28EC3DCA} = {80E9097A-1E72-4302-B0CB-B102C931F096}
+		{FB7D3543-82C7-4F67-BA5F-D7F5B3B0530F} = {80E9097A-1E72-4302-B0CB-B102C931F096}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {5DD74872-D441-4180-9F9C-DBA6F6DB5FC5}
