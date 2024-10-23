@@ -1,0 +1,6 @@
+@TPLApp_HostAddress = http://localhost:5082
+
+GET {{TPLApp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
